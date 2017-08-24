@@ -1,0 +1,13 @@
+{
+    "name": "yoyosan/refactoring-to-collections",
+    "type": "project",
+    "require": {
+        "tightenco/collect": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "Yoyosan",
+            "email": "veselu@gmail.com"
+        }
+    ]
+}
