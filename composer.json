@@ -2,7 +2,8 @@
     "name": "yoyosan/refactoring-to-collections",
     "type": "project",
     "require": {
-        "tightenco/collect": "^5.4"
+        "tightenco/collect": "^5.4",
+        "symfony/var-dumper": "^3.3"
     },
     "authors": [
         {
