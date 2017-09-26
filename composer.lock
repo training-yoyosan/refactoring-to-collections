@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ab51112d95a720b5ac10054322c3eb3f",
     "content-hash": "61639bbd3610d184953e5d59b73e5925",
     "packages": [
         {
@@ -64,11 +63,11 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-14 15:44:48"
+            "time": "2017-06-14T15:44:48+00:00"
         },
         {
             "name": "symfony/var-dumper",
-            "version": "v3.3.8",
+            "version": "v3.3.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/var-dumper.git",
@@ -132,28 +131,28 @@
                 "debug",
                 "dump"
             ],
-            "time": "2017-08-27 14:52:21"
+            "time": "2017-08-27T14:52:21+00:00"
         },
         {
             "name": "tightenco/collect",
-            "version": "v5.4.33",
+            "version": "v5.5.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tightenco/collect.git",
-                "reference": "73aa38b20d932f5e8f8ccf721e4c27f4304783d6"
+                "reference": "dae85b18c6a2315645bca3dac37e3e408542efa8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tightenco/collect/zipball/73aa38b20d932f5e8f8ccf721e4c27f4304783d6",
-                "reference": "73aa38b20d932f5e8f8ccf721e4c27f4304783d6",
+                "url": "https://api.github.com/repos/tightenco/collect/zipball/dae85b18c6a2315645bca3dac37e3e408542efa8",
+                "reference": "dae85b18c6a2315645bca3dac37e3e408542efa8",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.6.4"
+                "php": ">=7.0"
             },
             "require-dev": {
-                "mockery/mockery": "^0.9.7",
-                "phpunit/phpunit": "^5.7"
+                "mockery/mockery": "~1.0",
+                "phpunit/phpunit": "~6.0"
             },
             "type": "library",
             "autoload": {
@@ -179,7 +178,7 @@
                 "collection",
                 "laravel"
             ],
-            "time": "2017-08-14 20:47:19"
+            "time": "2017-09-25T17:13:51+00:00"
         }
     ],
     "packages-dev": [],
